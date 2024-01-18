@@ -1,0 +1,13 @@
+/*Pode se estilizar mais de um elemento ao mesmo tempo desde que eles tenham a mesma natureza*/
+
+/* #descricao-ps5, #descricao-pc{
+    background-color: rgb(28, 181, 228);
+} */
+
+.descricao-produto{
+    background-color: aquamarine;
+}
+
+.promocao{
+    border: solid 10px green;
+}
